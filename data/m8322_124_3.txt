@@ -1,0 +1,222 @@
+ 
+ EUROPEAN COMMISSION 
+DG Competition 
+ 
+ 
+
+In the published version of this decision, some information has been omitted pursuant to Article 17(2) of Council Regulation (EC) No 139/2004 concerning non-disclosure of business secrets and other confidential information. The omissions are shown thus []. Where possible the information omitted has been replaced by ranges of figures or a general description. 
+
+
+ 
+ Case M.8322 - HEINEKEN UK / PUNCH TAVERNS SECURITISATION 
+
+ 
+ 
+ 
+ 
+Only the English text is available and authentic. 
+ 
+ 
+ 
+REGULATION (EC) No 139/2004 
+MERGER PROCEDURE 
+ 
+ 
+ 
+ 
+ 
+Article 4(4) 
+Date: 15.2.2017 
+ 
+ EUROPEAN COMMISSION 
+ 
+
+Brussels, 15.2.2017 
+C(2017) 1192 final 
+ Limited 
+ 
+ 
+ 
+ 
+To the notifying party   
+To the Competition and Markets Authority 
+PUBLIC VERSION 
+ 
+ 
+Subject: Case M.8322  HEINEKEN UK / PUNCH TAVERNS SECURITISATION  Commission decision following a reasoned submission pursuant to Article 4(4) of Regulation No 139/20041 for referral of the case to the United Kingdom and Article 57 of the Agreement on the European Economic Area2. 
+1  OJ L 24, 29.1.2004, p. 1 (the 'Merger Regulation'). With effect from 1 December 2009, the Treaty on the Functioning of the European Union ('TFEU') has introduced certain changes, such as the replacement of 'Community' by 'Union' and 'common market' by 'internal market'. The terminology of the TFEU will be used throughout this decision. 
+logo_ec_17_colors_300dpi
+
+2  OJ L 1, 3.1.1994, p. 3 (the 'EEA Agreement'). 
+Date of filing: 12.01.2017 Legal deadline for response of Member States: 02.02.2017 Legal deadline for the Commission decision under Article 4(4): 16.02.2017 
+Dear Sir or Madam, 
+ INTRODUCTION 1.
+(1) On 12 January 2017, the Commission received by means of a Reasoned Submission a referral request pursuant to Article 4(4) of the Council Regulation (EC) No 139/2004 (the Merger Regulation) with respect to the proposed acquisition of Punch Taverns Holdco (A) Limited (the "Target", the United Kingdom) comprising 
+
+
+a package of pubs belonging to Punch Taverns plc ("Punch", the United Kingdom) and referred to as "Securitisation A" by Heineken UK Limited ("Heineken UK", the United Kingdom) (hereafter the "Transaction).  
+
+(2) Heineken UK requests the operation to be examined in its entirety by the competent authorities of the United Kingdom. 
+
+(3) According to Article 4(4) of the Merger Regulation, before a formal notification has been made to the Commission, the parties to the transaction may request that their transaction be referred in whole or in part from the Commission to the Member State where the concentration may significantly affect competition and which present all the characteristics of a distinct market.  
+
+(4) A copy of this Reasoned Submission was transmitted to all Member States on 12 January 2017. 
+
+(5) By email of 2 February 2017, the Competition and Markets Authority ("CMA") as the competent authority of the United Kingdom informed the Commission that the United Kingdom agrees with the proposed referral. 
+
+
+ THE PARTIES 2.
+(6) Heineken UK, wholly and indirectly owned by Heineken N.V. of the Netherlands, is a private company active in the brewing and distribution of alcoholic beverages, notably beer and cider in the United Kingdom. Heineken UK also owns and operates, through Star Pubs & Bars Limited ("Star"), a leased and tenanted pub business. Heineken UK, therefore, operates at the following different levels of the supply chain in the United Kingdom: (i) brewing; (ii) supply to both the on-trade and off-trade; and (iii) on-trade retail (i.e. the operation of premises where end consumers purchase and consume drinks on the premises). 
+
+(7) The Target is a private company, which owns a package of Punch's pubs referred to as "Securitisation A". The remainder of Punch's pub estate, referred to as "Securitisation B", will be acquired by a private equity investor, Patron Capital ("Patron", UK").   Punch's portfolio includes 3,276 pubs in the United Kingdom, of which 1,895 fall within the "Securitisation A" package of Punch pubs. 
+
+(8) Heineken UK and the Target are referred to collectively as the "Parties". 
+
+(9) Given the above, the Parties' activities only overlap in the United Kingdom. There is no overlap in any other jurisdiction. 
+
+
+ THE OPERATION AND CONCENTRATION 3.
+(10) The Transaction involves the acquisition of sole control by Heineken UK over the Target by way of an acquisition of shares.3  
+
+
+3  On 15 December 2016, Patron, through a bidding vehicle, announced its intention to make an offer for the entire issued share capital of Punch, receiving the support of 52.3% of Punch's ordinary shares.  On the same date, Patron entered into a sale and purchase agreement with Heineken UK under which Heineken UK agreed to acquire the Target, comprising the Punch Securitisation A pubs. These transactions will result in, on the one hand, Patron acquiring the Securitisation B package of Punch pubs and, on the other, Heineken, through Heineken UK, acquiring sole control of the Securitisation A package of Punch pubs. 
+Upon completion, Patron will have no interest in the Securitisation A package of Punch pubs and Heineken will have no interest in the Securitisation B package. 
+4     See Commission decision of 8 May 2002 in case M.2777 Cinven Limited / Angel Street Holdings. 
+5  Ibid, at paragraph 12. 
+6  In a recent CMA's decision of 2015 concerning the acquisition of Spirit Pub Company plc by Green King plc. (ME/6576/15), the CMA indicated that pubs form part of the United Kingdom "on-trade" sector, comprising premises that have a licence to serve alcoholic beverages for consumption on the premises. The on-trade sector is distinct from the "off-trade" sector, which comprises premises that have a licence to supply alcoholic beverages for consumption off the premises (e.g. supermarkets). In the same decision, the CMA defined the market for the operation of pubs by reference to the categories of on-trade premises that the CGA Strategy Brand Drinks Places Index includes in its definition of pubs. The CMA nonetheless recognised that there was evidence that restaurants and other licensed premises compete with pubs. 
+(11) The Transaction therefore constitutes a concentration pursuant to Article 3(1)(b) of the Merger Regulation.  
+
+
+ EU DIMENSION 4.
+(12) The undertakings concerned have a combined aggregate world-wide turnover of more than EUR 5 000 million (Heineken UK: EUR 20 511 million; Target: EUR 316 million). Each of them has an EU-wide turnover in excess of EUR 250 million (Heineken UK: EUR [< 10 billion]; Target: EUR 316 million). Whilst the Target achieves all of its EU-wide turnover in the United Kingdom, Heineken UK does not. Therefore the undertakings concerned do not achieve more than two-thirds of their aggregate EU-wide turnover within one and the same Member State. 
+
+(13) Therefore, the Transaction has an EU dimension within the meaning of Article 1(2) of the Merger Regulation. 
+
+
+ ASSESSMENT 5.
+(14) According to the information submitted by the Parties, the Transaction gives rise to horizontal overlaps on the markets for (i) the operation of pubs and (ii) overnight accommodation in the United Kingdom.  
+
+(15) The Parties submit that the Transaction will also lead to a vertical relationship as the Target is active in the operation of pubs in the United Kingdom and Heineken UK is involved in brewing activities and supplies beer and cider products to pub operating companies, including the Target. 
+
+
+A Relevant product markets 
+(i). Operation of pubs 
+
+(16) The Commission has not previously defined a market for the operation of pubs. In a prior decision,4 it has however considered the market for the retailing of alcoholic beverages in on-licensed premises,5 ultimately leaving the relevant product market definition open.6  
+
+(17) The Parties consider that the appropriate relevant market may be wider than the operation of pubs as pubs face considerable competitive constraints from other on-trade premises, such as hotel bars, clubs and restaurants and that, in any event, there 
+
+
+is no basis to support a more narrow approach than the one taken by the CMA in the Greene King / Spirit decision. 
+
+(ii). Brewing activities  
+
+(18) While Heineken UK's principal commercial activities are brewing activities, Punch is not active in this market.  
+
+(19) According to the Commission's decisional practice,7 separate product markets exist for beer and cider, and a number of cases have also considered (but not always definitively decided) whether those markets can be further segmented by reference to: (i) type of beer (lager, ale, stout); (ii) supply channel, and (iii) alcohol content (premium, standard).  
+
+(iii). Overnight accommodation  
+
+(20) Some ([< 100] / [5-10]%) of the Star's estate pubs provides overnight accommodation. Similarly, [< 500] of the Target's pubs also provide overnight accommodation  approximately [10-20]% of the total Target's estate. 
+
+(21) The Commission dealt with the market for hotel accommodation in several cases, but not specifically with the market for overnight accommodation provided by pubs in the United Kingdom.8 The Commission has previously considered hotel accommodation as a separate product market and that such market comprises both chain and independent hotels.9 The Commission has also previously considered but ultimately left open whether the market for hotel accommodation could be segmented on the basis of (i) price/comfort level (based in particular on the grading or stars awarded to the particular hotel) which indicates the standard and facilities the customer may expect and/or (ii) by ownership type (that is chain hotels and independent hotels).10   
+
+
+7  See for example Commission decisions in cases M.6587 Molson Coors / StarBev (6 June 2012) or M.4999 Heineken / Scottish & Newcastle assets (3 April 2008). See also CMA's decision in Greene King / Spirit, ME/6576/15, Anticipated acquisition by Heineken N.V. of Diageo plc assets (18 December 2015), ME/5582/12 and others. 
+8  In the CMA's decision Greene King / Spirit, the CMA considered, at paragraphs 41 and 42, branded and budget hotels competing with a range of other accommodation in the United Kingdom, including budget hotels (2-star), mid-range hotels (3-star), upscale hotels (4-star), B&Bs and guesthouses, but left open the precise product market definition as no competition concerns arose on any basis. 
+9  See Commission decision of 27 June 2016 in case M.7902 - Marriott/Starwood paragraphs 46 and 47.   
+10  See Commission decision of 27 June 2016 in case M.7902 - Marriott/Starwood, paragraphs 110, 118 and 119; Commission decision of 19 December 2012 in Case M.6738 - Goldman Sachs/KKR/QMH, paragraph 16; Commission decision of 2 February 2011 in Case M.6058 - Bank of Scotland/Barclays Bank/Kew Green Hotels, paragraph 15; Commission decision of 20 July 2005 in Case M.3858 - Lehman Brothers/SCG/Starwood/Le Meridien, paragraph 18; Commission decision of 16 February 2011 in Case M.2197 - Hilton/Accor/Forte/Travel Services JV, paragraph 28.   
+Conclusion 
+(22) For the purpose of the present Transaction, the exact product market definition in relation to the markets above, namely the operation of pubs, brewing activities, and overnight accommodation, can be left open as the outcome of the assessment of the referral request would not be different under any plausible market definition.  
+
+
+B Relevant geographic market 
+(i). Operation of pubs 
+
+(23) In a prior decision, the Commission considered the market for the retailing of alcoholic beverages in on-licensed premises to be potentially national, not excluding a local dimension but ultimately leaving the precise market definition open.11   
+
+(24) In Greene King / Spirit, the CMA found that while demand for pubs is primarily local, notably as "customers are generally only willing to travel short distances to visit pubs",12 on the supply side, pub operating companies compete over a number of parameters on a national basis, including beer supply agreements, advertising campaigns, promotions and pub themes.13 The CMA, therefore, assessed market for the operation of pubs both at local and national level.   
+
+(25) The Parties agree with the CMA's approach and that in any case the relevant geographic markets are not wider than national in scope. 
+
+(ii). Brewing activities  
+
+(26) In line with the Commission's prior decisional practice, the Parties consider that the relevant geographic market for brewing activities is not wider than national.14  
+
+(iii). Overnight accommodation  
+
+(27) In previous decisions, although the Commission left the exact geographic market definition open, it noted that that relevant geographic market for hotel accommodation may be both national and local.1516 In its recent decision in  Marriott/Starwood, the Commission considered the geographic market for hotel accommodation services to be local, whilst leaving the precise market delineation ultimately open, including the possibility of city-wide markets or markets covering a broader e.g. resort area.17    
+
+(28) The Parties agree that in any case the relevant markets are not wider than national in scope. 
+
+
+11  See Commission decision of 8 May 2002 in case COMP/M.2777 Cinven Limited / Angel Street Holdings.   
+12  See CMA decision in case Greene King / Spirit, paragraph 43. 
+13  See CMA decision in case Greene King / Spirit, paragraph 43 
+14  M.6587 Molson Coors / StarBev (6 June 2012), M.4999 Heineken / Scottish & Newcastle assets (3 April 2008),. To this effect, see also CMA's ME/6576/15, Anticipated acquisition by Heineken N.V. of Diageo plc assets (18 December 2015), Greene King / Spirit, ME/1936/05, Anticipated acquisition by Greene King plc of Belhaven Group plc (22 September 2005) (in which the merger parties argued that the geographic scope was national but on which the OFT did not need to reach a conclusion), 
+15  See for instance M.6058  Bank of Scotland/Barclays Bank/Kew Green; M.3858  Lehman Brothers/Scg/Starwood/Le Meridien and M.2197  Hilton/Accor/Forte/Travel Services JV. 
+16  Similarly, in the United Kingdom, the CMA has consistently found that competition in the market for overnight accommodation takes place on both national and local level. The CMA also took this approach in the recent Greene King / Spirit decision. 
+17  See M.7902 Marriott International / Starwood Hotels & Resorts Worldwide, at paragraphs 118 et subseq. 
+Conclusion 
+(29) To conclude, all the above relevant geographic markets appear to be not wider than national. 
+
+
+C Assessment 
+(30) According to the Commission Notice on case referral, in order for a referral to be made by the Commission to one or more Member States pursuant to Article 4(4), the following two legal requirements must be fulfilled: 
+
+(a) there must be indications that the concentration may significantly affect competition in a market or markets, and 
+
+(b) the market(s) in question must be within a Member State and present all the characteristics of a distinct market 
+
+
+(31) With regards to the first requirement, the present Transaction gives rise to several potentially affected markets in the United Kingdom.  
+
+(32) Firstly, as to the market for the operation of pubs, the Parties have identified [] areas of local overlaps, which could constitute affected markets. In these [] local areas, the Parties' combined market share in the market for the operation of pubs would exceed [30-40]% with an increment in excess of [0-5]%.  
+
+(33) Secondly, the Transaction would lead to the following potential vertically affected markets at national level given that the Target is active in the downstream market of operation of pubs in the United Kingdom and Heineken is present in the following upstream markets: i) the market for the supply of standard lager to the on-trade (pubs only); ii) the market for the supply of standard ale to the on-trade (pubs only) and iii) the market for the supply of cider to the on-trade (pubs only). Heineken's market share would be in volume approximately [30-40]%, [30-40]% and [40-50]% respectively and in value [30-40]%, [20-30]% and [40-50]% respectively.18  
+
+(34) Therefore, the first legal requirement set forth by article 4(4) of the Merger Regulation appears to be met. 
+
+(35) With regards to the second requirement, in line with the above, there are strong indications that the distinct markets for the operation of pubs, brewing activities and overnight accommodation would be at most of national dimension.  
+
+(36) Therefore, also the second legal requirement set forth by article 4(4) of the Merger Regulation appears to be met. 
+
+(37) In view of the foregoing, the preliminary assessment suggests that the Transaction may significantly affect competition within a Member State and that the effects of 
+
+
+18  For the sake of completeness, as to the market for overnight accommodation, at a local level, there are potential areas of overlap between the Parties. Heineken has not undertaken a detailed local markets assessment in respect of overnight accommodation, but does not consider, given the nature of that market and the wide range of overnight accommodation available, that there are likely to be any affected markets for the purposes of this reasoned submission. That is consistent with the CMA's findings in Greene King /Spirit, paragraph 155. However, the assumption might require further examination. 
+the proposed operation would be restricted to the United Kingdom. Further, the markets in question present all the characteristics of a distinct market. 
+
+
+Additional factors 
+(38) The CMA has extensive and specific expertise in examining the above markets as evidenced by reference to its extensive decisional practice with respect to the above markets, compared to the Commission.  
+
+(39) The CMA would therefore be best placed to examine the effects of the Transaction. 
+
+(40) Finally, the requested referral would preserve the principle of "one-stop-shop" to the extent that the case would be referred to a single competition authority, which is an important factor of administrative efficiency.  
+
+
+ REFERRAL 6.
+(41) On the basis of the information provided by the parties in the Reasoned Submission, the case meets the legal requirements set out in Article 4(4) of the Merger Regulation in that the concentration may significantly affect competition in a market within a Member State which presents all the characteristics of a distinct market.  
+
+(42) The Commission notice on case referral in respect of concentrations19 (point 17) indicates that, in seeking a referral under Article 4(4), "the requesting parties are  required to demonstrate that the transaction is liable to have a potential impact on competition on a distinct market in a Member State, which may prove to be significant, thus deserving close scrutiny", and that "such indications may be no more than preliminary in nature".  
+
+(43) Point 18 of the notice also indicates that "the requesting parties are required to show that a geographic market in which competition is affected by the transaction in the manner just described (paragraph 17) is national, or narrower than national in scope". 
+
+(44) Moreover, point 20 of the notice provides that "Concentrations with a Community dimension which are likely to affect competition in markets that have a national or narrower than national scope, and the effects of which are likely to be confined to, or have their main economic impact in, a single Member State, are the most appropriate candidate cases for referral to that Member State.  This applies in particular to cases where the impact would occur on a distinct market which does not constitute a substantial part of the common market" (emphasis added). 
+
+(45) The Commission considers, on the basis of the information submitted in the Reasoned Submission, that the principal impact on competition of the concentration is liable to take place on distinct markets in the United Kingdom, and that therefore the requested referral would be consistent with points 17, 18 and 20 of the notice.   
+
+
+19  OJ C 56, 5.3.2005, p. 2. 
+  
+ CONCLUSION 7.
+(46) For the above reasons, and given that the United Kingdom has expressed its agreement, the Commission has decided to refer the transaction in its entirety to be examined by the United Kingdom. This decision is adopted in application of Article 4(4) of the Merger Regulation and Article 57 of the EEA Agreement.  
+
+
+For the Commission 
+(signed) 
+Johannes LAITENBERGER Director-General 
+ 
+ 
+
